@@ -1,3 +1,11 @@
 # Вывод графика в веб
 
-Диаграмма доступна по ссылке: https://nsamoilov.github.io/SuitResultStatistic/
+Диаграмма кликабельна и доступна по ссылке: https://nsamoilov.github.io/SuitResultStatistic/
+
+Доработка до 25.07:
+
+  Изменить метод чтения в VisualAndOut.py
+  
+  Создать методы, которые принимают один лист cslist. Перенести туда код по каждому методу вывода графика.
+  
+  Поправить логику в VisualAndOut.py
